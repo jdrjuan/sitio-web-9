@@ -13,3 +13,17 @@ h1 {
     list-style-type: none;
     max-width: 400px;
 }
+
+.nav-bar {
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    margin-bottom: 2em;
+}
+
+.nav-bar__link {
+    text-decoration: none;
+    font-variant: small-caps;
+    color: #f2f2f2;
+}
