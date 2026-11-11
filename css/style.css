@@ -25,6 +25,10 @@ h1 {
 .nav-bar__link {
     text-decoration: none;
     font-variant: small-caps;
-    color: #f2f2f2;
+    color: #d7d7d7;
     padding: 0.5em;
+}
+
+.nav-bar__link:hover {
+    color: #ffffff;
 }
