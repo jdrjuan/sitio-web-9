@@ -1,6 +1,7 @@
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: #333;
+    margin: 0;
 }
 
 h1 {
@@ -31,4 +32,21 @@ h1 {
 
 .nav-bar__link:hover {
     color: #ffffff;
+}
+
+.producto {
+    border: 1px solid #d7d7d7;
+    background-color: #fcfcfc;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 5px;
+}
+
+.producto h2 {
+    text-align: center;
+}
+
+.producto ul {
+    list-style-type: none;
+    padding: 0;
 }
